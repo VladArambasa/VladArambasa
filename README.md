@@ -46,22 +46,26 @@ My approach to teaching emphasizes **understanding why an algorithm works**, exp
 <tr>
 <td width="50%" valign="top">
 
-**Artificial intelligence & numerical computing**
+**Artificial intelligence & computing**
 
-- Autoencoders and representation learning
-- Dynamic Mode Decomposition (DMD)
-- Koopman-inspired approaches to nonlinear dynamics
-- Data-driven modelling and trajectory prediction
+- Artificial Intelligence
+- Neural Networks
+- Deep Learning
+- Operating Systems
+
+**Mathematical modelling**
+
+- Reaction–Diffusion Equations and Pattern Modelling
 
 </td>
 <td width="50%" valign="top">
 
-**Mathematics & algorithms**
+**Language & historical studies**
 
-- Probability and mathematical statistics
-- Dynamical systems and fractal geometry
-- Numerical methods and simulation
-- Algorithms, data structures and complexity
+- Languages
+- Human Language Evolution Modelling
+- Cooking History
+- Military History and Reenactment
 
 </td>
 </tr>
